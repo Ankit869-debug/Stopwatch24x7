@@ -36,6 +36,6 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ankit869-debug/Stopwatch-Web-App.git
+   git clone https://github.com/Ankit869-debug/Stopwatch24x7-Web-App.git
 
 
